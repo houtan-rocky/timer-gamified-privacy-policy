@@ -1,6 +1,6 @@
 # Privacy Policy for Timer Gamified
 
-**Last Updated:** [Date]
+**Last Updated:** 11/21/2025
 
 ## Introduction
 
@@ -94,8 +94,7 @@ This app is distributed through the Microsoft Store. Microsoft may collect certa
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: [Your Contact Email]
-- Website: [Your Website URL, if applicable]
+- Email: houtan.rocky@gmail.com
 
 ## Compliance
 
